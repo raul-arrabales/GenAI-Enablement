@@ -1,2 +1,2 @@
-Examples using Hugging Face's Transformers Agent
-See https://huggingface.co/docs/transformers/transformers_agents 
+Examples using Hugging Face's Transformers Agent<br>
+See [https://huggingface.co/docs/transformers/transformers_agents](https://huggingface.co/docs/transformers/transformers_agents){:target="_blank"}
