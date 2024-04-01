@@ -14,6 +14,8 @@ rarrabales @ faculty - IE University
 <hr>
 
 Toy example of user role<br>
-<img src="SalesChatBot.PNG" width=200>
+<img src="SalesChatBot.PNG" width=600>
 
-![Toy example of conversation](SalesChatBot2.PNG?raw=true "Toy example of conversation")
+Toy example of conversation
+<img src="SalesChatBot2.PNG" width=600>
+
