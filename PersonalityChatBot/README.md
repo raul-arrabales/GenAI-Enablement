@@ -13,9 +13,11 @@ rarrabales @ faculty - IE University
 
 <hr>
 
-Toy example of user role<br>
+#### Toy example of user role<br>
 <img src="SalesChatBot.PNG" width=600>
 
-Toy example of conversation
+<hr> 
+
+#### Toy example of conversation
 <img src="SalesChatBot2.PNG" width=600>
 
