@@ -10,3 +10,8 @@ streamlit run app.py --server.port=8501
 
 V 1.0 (Apr. '24)
 rarrabales @ faculty - IE University
+
+
+![Toy example of user role](SalesChatBot.PNG?raw=true "Toy example of user role")
+
+![Toy example of conversation](SalesChatBot2.PNG?raw=true "Toy example of conversation")
