@@ -14,10 +14,10 @@ rarrabales @ faculty - IE University
 <hr>
 
 #### Toy example of user role<br>
-<img src="SalesChatBot.PNG" width=600>
+<img src="SalesChatBot.PNG" width=800>
 
 <hr> 
 
 #### Toy example of conversation
-<img src="SalesChatBot2.PNG" width=600>
+<img src="SalesChatBot2.PNG" width=800>
 
